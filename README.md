@@ -153,7 +153,7 @@ Collecting jinja2 (from notebook->jupyter)
      |████████████████████████████████| 133kB 3.3MB/s
 # Anaconda-py37-tensorflow-built-env
 
-+ need to UNZIP tensorflow/python/_pywrap_tensorflow_internal.zip
++ need to UNZIP tensorflow/python/_pywrap_tensorflow_internal.zip 
 
 > pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow==2.0.0-rc0 matplotlib pandas scikit-learn scikit-image ipython jupyter keras  
 
