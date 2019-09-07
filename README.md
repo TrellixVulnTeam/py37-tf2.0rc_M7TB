@@ -155,7 +155,7 @@ Collecting jinja2 (from notebook->jupyter)
 
 + need to UNZIP tensorflow/python/_pywrap_tensorflow_internal.zip
 
-> pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow==2.0.0-rc0 matplotlib pandas scikit-learn scikit-image ipython jupyter keras
+> pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow==2.0.0-rc0 matplotlib pandas scikit-learn scikit-image ipython jupyter keras  
 
 	 
 
